@@ -57,7 +57,8 @@ SUPPORT
 If you find this tool useful and want to support its development, you can do so here:
 https://paypal.me/Himinglaeva
 
-
+## License
+This project uses a custom license. See LICENSE file for details.
 Please do not redistribute or repackage this tool.
 Share the original source instead.
 
