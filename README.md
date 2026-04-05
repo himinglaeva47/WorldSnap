@@ -46,6 +46,10 @@ WHAT IT DOES
 
 SUPPORT
 
+WorldSnap - Blender 4.5–5.0 Install: https://youtu.be/59RkU-zW3rA
+
+WorldSnap - Maya 2024–2026 install: https://youtu.be/EJun6sTdu78
+
 WorldSnap -Multiple Asset Alignment: https://youtu.be/UDTuIGVnMaQ?si=X1zRpiPzn7e20B2j 
 
 WorldSnap - AI Generated Mesh Alignment: https://youtu.be/htkJLo7LpJM?si=5JWe3QRfYRb5rYmd
