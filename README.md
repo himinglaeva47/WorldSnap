@@ -30,8 +30,6 @@ Bring your assets back exactly where they belong.
 
 🧠 Why It Exists:
 
-Because “close enough” wastes time.
-
 WorldSnap replaces manual adjustment with predictable, repeatable alignment — letting you focus on creating instead of fixing.
 
 WHAT IT DOES
