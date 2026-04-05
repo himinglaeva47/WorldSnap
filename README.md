@@ -46,9 +46,9 @@ WHAT IT DOES
 
 SUPPORT
 
-WorldSnap - AI Generated Mesh Alignment: https://youtu.be/htkJLo7LpJM?si=5JWe3QRfYRb5rYmd
-
 WorldSnap -Multiple Asset Alignment: https://youtu.be/UDTuIGVnMaQ?si=X1zRpiPzn7e20B2j 
+
+WorldSnap - AI Generated Mesh Alignment: https://youtu.be/htkJLo7LpJM?si=5JWe3QRfYRb5rYmd
 
 If you find this tool useful and want to support its development, you can do so here:
 https://paypal.me/Himinglaeva
